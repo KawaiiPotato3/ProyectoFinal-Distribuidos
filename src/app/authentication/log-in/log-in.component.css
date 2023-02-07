@@ -1,0 +1,49 @@
+#imagenSalon {
+    background-image: url("https://static.wixstatic.com/media/865f3d_8b4383b7bed0474b95ac32072cde73fa~mv2_d_3100_2067_s_2.jpg/v1/fill/w_640,h_742,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/865f3d_8b4383b7bed0474b95ac32072cde73fa~mv2_d_3100_2067_s_2.jpg");
+    }
+    
+    @media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh !important;
+    }
+    }
+    @media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }
+.btn-outline-warning{
+
+    background-color: orange;
+    border: white;
+    color: rgb(27, 31, 30);
+    cursor: pointer;
+}
+
+.btn-primary.btn-block{
+
+    background-color: orange;
+    border: white;
+    color: rgb(27, 31, 30);
+    cursor: pointer;
+}
+
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: orange;
+    padding-top: 20px;
+}
+
+.alert-danger{
+    color: red;
+    background: #f8d7da;
+    border-color: #f5c6cb;
+    margin-bottom: 5px;
+}
+
+.container-error-message{
+    padding: 3px;
+}

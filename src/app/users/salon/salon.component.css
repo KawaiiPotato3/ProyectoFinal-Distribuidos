@@ -1,0 +1,41 @@
+#btn1 {
+    background-color: #fda201;
+    border-color: #fda201;
+    text-decoration-color: black;
+}
+
+#btn2 {
+    background-color: #0ea309;
+    border-color: #0ea309;
+    text-decoration-color: black;
+}
+
+.carousel .carousel-item {
+    height: 55vh;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 55vh;
+}
+
+.imganomino {
+    margin: auto;
+    display: block;
+}
+.pregunta {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.inputcomentario:focus{
+    height: 7vh;
+}
+.btn1{
+    background-color: #fda201;
+    border-color: #fda201;
+    text-decoration-color: black;
+}

@@ -1,0 +1,28 @@
+.photo{
+    max-width: 15rem;
+}
+
+.container{
+    
+    font-size: 1rem;
+}
+
+.title-size{
+    font-size: 1.3rem;
+    color: #dc9104;
+}
+.manage-btn{
+    color:blueviolet;
+}
+.manage-btn:hover{
+    color: black;
+}
+.update-btn{
+    color: blue;
+}
+.update-btn:hover{
+    color: whitesmoke;
+}
+.custom-bg{
+    background-color: #fff;
+}

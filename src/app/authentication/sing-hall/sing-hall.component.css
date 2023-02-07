@@ -1,0 +1,17 @@
+#primero{
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 15px;
+}
+
+.form-group {
+    align-items: center;
+  }
+.btn{
+    background-color: #fda201;
+    border-color: #fda201;
+    text-decoration-color: black;
+}
+.err{
+    color: #ffaa00;
+}
