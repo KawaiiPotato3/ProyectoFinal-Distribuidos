@@ -14,5 +14,4 @@ public class Cliente implements Serializable {
     private String contrasenia;
     private String email;
     private String direccion;
-    private Float culo;
 }
