@@ -1,0 +1,9 @@
+.header{
+    height: 72px;
+}
+.footer{
+    height: 55px;
+}
+.body{
+    min-height: calc(100vh - 55px - 72px);
+   }

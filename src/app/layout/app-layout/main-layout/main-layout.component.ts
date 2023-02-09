@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-main-layout',
   templateUrl: './main-layout.component.html',
-  styleUrls: []
+  styleUrls: ['./main-layout.component.css']
 })
 export class MainLayoutComponent {
 

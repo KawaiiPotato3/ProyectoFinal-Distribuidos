@@ -97,7 +97,10 @@ export class SingInComponent {
     }, err => {
       console.log(err)
       
-    })
+      
+      
+    }
+    )
 
    
   }

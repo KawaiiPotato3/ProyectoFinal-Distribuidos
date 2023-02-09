@@ -7,9 +7,10 @@ import { UsuarioComponent } from './usuario/usuario.component';
 import { RouterModule } from '@angular/router';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { FeatherModule } from 'angular-feather';
+import { EditarsalonComponent } from './editarsalon/editarsalon.component';
 
 @NgModule({
-  declarations: [SalonComponent, UsuarioComponent],
+  declarations: [SalonComponent, UsuarioComponent, EditarsalonComponent],
   imports: [
     CommonModule,
     UserRoutingModule,
